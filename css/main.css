@@ -352,6 +352,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   clear: both;
 }
 
+.work li ul li
+{
+    border-bottom: none;
+    margin-bottom: .5em;
+}
+
 /* Portfolio */
 .image{
   position: relative;
